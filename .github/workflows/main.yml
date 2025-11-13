@@ -32,7 +32,6 @@ jobs:
 
       - name: Run load.py
         run: python load.py
-          print("hello")
 
 
 
